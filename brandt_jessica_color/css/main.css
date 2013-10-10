@@ -1,0 +1,29 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #83f03c;
+}
+
+h1 {
+	font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+	color: navy;
+	background-color: rgba(222,250,112,0.5);
+}
+
+h2 {
+	font-family:"Palatino Linotype", "Book Antiqua", Palatino, serif;
+	color: #399200;
+	background: #60d5ac;
+}
+
+h3 {
+	font-family:"Comic Sans MS", cursive;
+	color: #006f48;
+}
+
+ol { 
+	border-style: solid;
+	border-width: 3px;
+	border-color: hsl(96, 60%, 41%);
+}
