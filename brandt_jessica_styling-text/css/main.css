@@ -1,0 +1,59 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {
+	background-color: #83f03c;
+	font: bold 14pt/1 "Times New Roman";
+}
+
+h1 {
+	font-family: 'Lily Script One', cursive;
+	color: navy;
+	font-style: italic;
+	background-color: rgba(222,250,112,0.5);
+	text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+h2 {
+	font-family:'Lily Script One', cursive;
+	color: #399200;
+	background: #60d5ac;
+	font-variant: small-caps;
+	text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+h3 {
+	font-family:"Comic Sans MS", cursive;
+	color: #006f48;
+	text-align: center;
+	text-shadow: 0.1em 0.1em 0.2em black;
+}
+
+ol { 
+	border-style: solid;
+	border-width: 3px;
+	border-color: hsl(96, 60%, 41%);
+	word-spacing: 3px;
+}
+
+p {
+	line-height: 150%;
+}
+
+a:link{
+	color: #60d5ac;
+}
+
+a:visited{
+	color: #d4fa3e;
+}
+
+a:hover{
+	color: #c3f500;
+}
+
+a:active{
+	color: 58e000;
+}
+
+
